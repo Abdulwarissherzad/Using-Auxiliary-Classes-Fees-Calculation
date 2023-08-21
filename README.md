@@ -9,3 +9,4 @@ The application then gives them the total fees amount due. For the coming year t
 
 
 ![Fees-Calculation-GUI](https://github.com/Abdulwarissherzad/UsingAuxiliaryClassesFeesCalculation/assets/58654136/4f386fc7-4411-4425-a8de-c8bee831aa50)
+https://github.com/Abdulwarissherzad/UsingAuxiliaryClassesFeesCalculation/blob/master/FeesGUI/Fees%20GIU%20-%206.jpg
